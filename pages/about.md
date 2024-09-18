@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+Hello, this is Callie Martindale, and this is my first time typing code or writing an about the collection page. Hooray! 
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
